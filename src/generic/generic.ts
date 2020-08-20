@@ -1,4 +1,4 @@
-
+/* 泛型 */
 function take<T>(arr: T[], n: number) {
   if (n >= arr.length) {
     return arr;
